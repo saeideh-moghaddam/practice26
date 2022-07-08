@@ -41,3 +41,7 @@
 
 (outpot)
 
+
+![photo_2022-07-08_16-24-13](https://user-images.githubusercontent.com/108235776/177987418-041efb7b-1c35-453f-8a63-04dd8c99f9b7.jpg)
+
+

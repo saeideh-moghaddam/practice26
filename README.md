@@ -29,3 +29,15 @@
 
 ![photo_2022-07-07_22-03-21](https://user-images.githubusercontent.com/108235776/177835748-d35822d1-3729-4af9-ae5e-9c1f1cdebb91.jpg)
 
+
+
+
+![sol](https://user-images.githubusercontent.com/108235776/177976608-e37ae577-2885-4d27-ab85-70783a7b482f.jpg)
+
+(inpot)
+
+
+![output](https://user-images.githubusercontent.com/108235776/177976672-09c87b32-7f2c-45ba-ba7c-9c7fd10fa7d0.png)
+
+(outpot)
+
